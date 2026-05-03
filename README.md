@@ -1,39 +1,46 @@
-# Dolpai
+<h1 align="center">🚀 Dolpai</h1>
+<h3 align="center">AI Automation • Integrations • Cybersecurity</h3>
 
-Dolpai is a SvelteKit website for an AI-powered customer automation service.
+<p align="center">
+  <b>Build Smarter Systems. Automate Everything. Secure the Future.</b>
+</p>
 
-## Development
+---
 
-Install dependencies:
+## 🌐 About Dolpai
 
-```sh
-npm install
-```
+Dolpai is an **AI-powered automation platform** focused on building intelligent systems that:
 
-Start the local development server:
+- 🤖 Automate business workflows  
+- 🔗 Connect multiple platforms seamlessly  
+- 🛡️ Secure digital infrastructure  
+- 📊 Deliver smart insights using AI  
 
-```sh
-npm run dev
-```
+> ⚡ From Nepal → Global AI Infrastructure Company
 
-Check the project:
+---
 
-```sh
-npm run check
-```
+## 🚀 What We’re Building
 
-Build for production:
+🔥 Dolpai is designed to become:
 
-```sh
-npm run build
-```
+> **The Operating System for AI-powered Businesses**
 
-Preview the production build:
+We focus on:
 
-```sh
-npm run preview
-```
+- AI Agents & Automation Pipelines  
+- API Integrations & System Connectivity  
+- Cybersecurity & Secure Architectures  
+- Scalable Cloud-Based Platforms  
 
-## Release
+---
 
-The first public website release is tagged as `v1.0.0`.
+## 🧠 Tech Stack
+
+```bash
+Frontend  → SvelteKit / React / TailwindCSS
+Backend   → FastAPI / Node.js
+AI Layer  → Python (ML, NLP, Automation)
+Database  → PostgreSQL / MongoDB
+Cloud     → AWS / Docker / Kubernetes
+Security  → Encryption / Monitoring / IAM
